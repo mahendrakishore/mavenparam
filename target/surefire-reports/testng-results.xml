@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12435" started-at="2017-06-28T16:38:25Z" finished-at="2017-06-28T16:38:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12435" started-at="2017-06-28T16:38:25Z" finished-at="2017-06-28T16:38:37Z">
+      <class name="com.parameterizedmvntng.ParameterizedMaven">
+        <test-method status="PASS" signature="demoAuto()[pri:0, instance:com.parameterizedmvntng.ParameterizedMaven@d94a8b]" name="demoAuto" duration-ms="12412" started-at="2017-06-28T22:08:25Z" finished-at="2017-06-28T22:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoAuto -->
+      </class> <!-- com.parameterizedmvntng.ParameterizedMaven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
